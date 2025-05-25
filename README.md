@@ -10,6 +10,10 @@ gem install waaah
 
 # Usage
 
+Specify the date using the `-d` option.
+
+An asterisk `*` is displayed for the current month.
+
 ```
 % waaah -d 2025-06-01
 ----------------------
