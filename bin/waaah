@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "waaah"
+
+Waaah::CLI.run(ARGV)
