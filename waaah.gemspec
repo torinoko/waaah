@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "waaah"
-  spec.version       = "0.1.2 "
+  spec.version       = "0.1.3 "
   spec.summary       = "Calculate pregnancy months from due date"
   spec.authors       = ["tadaaki"]
   spec.files         = Dir["lib/**/*.rb"] + ["bin/waaah"]
@@ -11,6 +11,6 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/torinoko/waaah"
-  spec.metadata["changelog_uri"] = "https://github.com/torinoko/waaah/CHANGELOG.md"
+  spec.metadata["changelog_uri"] = "https://github.com/torinoko/waaah/blob/main/CHANGELOG.md"
   spec.required_ruby_version = Gem::Requirement.new(">= 3.0.0")
 end

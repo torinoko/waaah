@@ -16,6 +16,9 @@ An asterisk `*` is displayed for the current month.
 
 ```
 % waaah -d 2025-06-01
+```
+Example output:
+```
 ----------------------
 Due date: 2025-06-01
 ----------------------
