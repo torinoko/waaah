@@ -48,9 +48,6 @@ module Waaah
         month_end_date = month_start_date + 27
         (month_start_date..month_end_date).cover?(today)
       end
-      def due_date?(due_date, today)
-        due_date == today
-      end
     end
   end
 end
