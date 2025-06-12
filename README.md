@@ -1,6 +1,7 @@
 # Waaah
-
 Calculate pregnancy months from due date.
+
+<img src="https://github.com/user-attachments/assets/a7b0cfa1-90c2-4d11-a79d-5886d5df4e9d" alt="Waaah" title="Waaah" width="300">
 
 # Installation
 
@@ -18,6 +19,7 @@ An asterisk `*` is displayed for the current month.
 % waaah -d 2025-06-01
 ```
 Example output:
+
 ```
 ----------------------
 Due date: 2025-06-01
