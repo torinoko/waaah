@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.executables   = ["waaah"]
   spec.require_paths = ["lib"]
   spec.bindir        = "bin"
-  spec.homepage      = "https://github.com/torinoko/waaah"
+  spec.homepage      = "https://kamazuni-marunomi.com/"
   spec.license       = "MIT"
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/torinoko/waaah"
